@@ -1,6 +1,6 @@
 # Update log
-[3/22/20 10:56, Chris] Added data/Democracy Index 2019.csv
-[3/22/20 20:00, Shimanti] Added lotsa supporting data
+3/22/20 10:56, Chris: Added data/Democracy Index 2019.csv
+3/22/20 20:00, Shimanti: Added lotsa supporting data
 
 # CovidbyGovt
 A machine learning attempt to understand the COVID-19 death rate by each country's government
