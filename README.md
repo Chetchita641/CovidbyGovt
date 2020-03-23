@@ -1,17 +1,18 @@
 # CovidbyGovt
 A machine learning attempt to understand the COVID-19 death rate by each country's government
 
-Data Sources
+<<<<<<< HEAD
+Data Source:
+John Hopkins data site
 https://github.com/CSSEGISandData/COVID-19
-https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd 
+
+
+# Links
+https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd
 https://www.worldometers.info/coronavirus/
+https://ourworldindata.org/covid-testing
+https://ourworldindata.org/grapher/tests-vs-confirmed-cases-covid-19
+https://www.tableau.com/covid-19-coronavirus-data-resources
+https://github.com/COVID19Tracking/covid-tracking-data
+https://github.com/COVID19Tracking/covid-tracking-api
 
-Githubs:
-https://github.com/Shimanti
-https://github.com/Chetchita641/CovidbyGovt - master directory
-https://github.com/osulluke
-
-Emails:
-osulluke@gmail.com
-chrismacholtz@gmail.com
-shimanti@gmail.com 
