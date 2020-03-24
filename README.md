@@ -1,4 +1,5 @@
 # Update log
+* 3/23/20 19:14, Chris: Shimanti might've been right. Checkout the top 20 countries at the end of the Analysis Notebook
 * 3/22/20 11:00, Chris: Merged Luke's work in
 * 3/22/20 10:56, Chris: Added data/Democracy Index 2019.csv
 * 3/22/20 20:00, Shimanti: Added lotsa supporting data
