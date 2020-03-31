@@ -23,5 +23,6 @@ https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-
 - https://github.com/COVID19Tracking/covid-tracking-data
 - https://github.com/COVID19Tracking/covid-tracking-api
 - https://graphics.reuters.com/CHINA-HEALTH-MAP/0100B59S39E/index.html
+- http://gabgoh.github.io/COVID/index.html
 
 

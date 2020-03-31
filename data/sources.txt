@@ -1,8 +1,60 @@
-ophttps://ourworldindata.org/covid-testing
-https://ourworldindata.org/grapher/tests-vs-confirmed-cases-covid-19
-https://ourworldindata.org/coronavirus-testing-source-data
-https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
-https://www.tableau.com/covid-19-coronavirus-data-resources
+Data Sources
+
+Covid-related
+https://coronavirus-resources.esri.com/#get-data
+
+COVID-19 Cases.csv =>
 https://github.com/COVID19Tracking/covid-tracking-data
 https://github.com/COVID19Tracking/covid-tracking-api
+
+COVID-19-geographic-disbtribution-worldwide =>
+https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
+
+COVID19_Cases_US_2020-03-30 => 
+https://coronavirus-resources.esri.com/datasets/628578697fb24d8ea4c32fa0c5ae1843_0?geometry=-166.917%2C-19.609%2C142.458%2C71.199
+
+tests-vs-confirmed-cases-covid-19.csv => 
+https://ourworldindata.org/grapher/tests-vs-confirmed-cases-covid-19
+https://ourworldindata.org/coronavirus-testing-source-data
+https://ourworldindata.org/covid-testing
+
+states_daily_4pm_et.csv  => 
+https://www.tableau.com/covid-19-coronavirus-data-resources
+https://public.tableau.com/profile/covid.19.data.resource.hub#!/vizhome/COVID-19Cases_15840488375320/COVID-19Cases
+https://www.kff.org/global-health-policy/fact-sheet/coronavirus-tracker/
+
+CDS =>
+https://coronadatascraper.com/#home
+https://coronadatascraper.com/#data.csv
+https://coronadatascraper.com/#timeseries.csv
+
+
+AZ 
+=>
+https://www.azdhs.gov
+
+Other
+
+AZnursinghomes =>
+https://data.world/codefordc/nursing-homes
+
+CDC
+CDC20SocialVulnerabilityIndexUSA = > 
+https://coronavirus-resources.esri.com/datasets/cdcarcgis::cdc-social-vulnerability-index-2018-usa?geometry=-154.373%2C-0.112%2C155.002%2C76.654&layer=13 
+
+CDC_SVI2018Documentation = > 
+https://svi.cdc.gov/Documents/Data/2018_SVI_Data/SVI2018Documentation.pdf
+
+USA_Hospital_Beds => 
+https://coronavirus-resources.esri.com/#get-data
+
+Neighborhood_Age_Demographics =>
+http://gisdata.tucsonaz.gov/datasets/neighborhood-age-demographics
+
+
+Visual links
 https://graphics.reuters.com/CHINA-HEALTH-MAP/0100B59S39E/index.html
+https://www.worldometers.info/coronavirus/
+
+Epidemic Calculator
+http://gabgoh.github.io/COVID/index.html
