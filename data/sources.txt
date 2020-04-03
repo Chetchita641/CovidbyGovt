@@ -1,6 +1,9 @@
 Data Sources
 
-Covid-related
+JH
+https://github.com/CSSEGISandData/COVID-19
+
+COVID-RELATED DATA
 https://coronavirus-resources.esri.com/#get-data
 
 COVID-19 Cases.csv =>
@@ -10,8 +13,11 @@ https://github.com/COVID19Tracking/covid-tracking-api
 COVID-19-geographic-disbtribution-worldwide =>
 https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
 
-COVID19_Cases_US_2020-03-30 => 
+COVID19_Cases_US_2020-03-30.csv => 
 https://coronavirus-resources.esri.com/datasets/628578697fb24d8ea4c32fa0c5ae1843_0?geometry=-166.917%2C-19.609%2C142.458%2C71.199
+
+COVID19_state.csv =>
+https://www.kaggle.com/nightranger77/covid19-state-data
 
 tests-vs-confirmed-cases-covid-19.csv => 
 https://ourworldindata.org/grapher/tests-vs-confirmed-cases-covid-19
@@ -23,17 +29,17 @@ https://www.tableau.com/covid-19-coronavirus-data-resources
 https://public.tableau.com/profile/covid.19.data.resource.hub#!/vizhome/COVID-19Cases_15840488375320/COVID-19Cases
 https://www.kff.org/global-health-policy/fact-sheet/coronavirus-tracker/
 
+AZ 
+=>
+https://www.azdhs.gov
 CDS =>
 https://coronadatascraper.com/#home
 https://coronadatascraper.com/#data.csv
 https://coronadatascraper.com/#timeseries.csv
+NYT =>
+https://github.com/nytimes/covid-19-data
 
-
-AZ 
-=>
-https://www.azdhs.gov
-
-Other
+OTHER DATA
 
 AZnursinghomes =>
 https://data.world/codefordc/nursing-homes
@@ -44,6 +50,9 @@ https://coronavirus-resources.esri.com/datasets/cdcarcgis::cdc-social-vulnerabil
 
 CDC_SVI2018Documentation = > 
 https://svi.cdc.gov/Documents/Data/2018_SVI_Data/SVI2018Documentation.pdf
+
+ICU =>
+https://www.kaggle.com/jaimeblasco/icu-beds-by-county-in-the-us
 
 USA_Hospital_Beds => 
 https://coronavirus-resources.esri.com/#get-data
