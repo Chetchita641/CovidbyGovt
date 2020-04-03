@@ -1,7 +1,8 @@
 Data Sources
 
-JH
+JH archive =>
 https://github.com/CSSEGISandData/COVID-19
+(Includes copies of files to use in absence of live feed)
 
 COVID-RELATED DATA
 https://coronavirus-resources.esri.com/#get-data
