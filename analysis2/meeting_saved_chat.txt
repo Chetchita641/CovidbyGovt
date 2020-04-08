@@ -1,0 +1,12 @@
+16:44:26	 From Samuel Noriega : covid.rename(columns = {‘4/3/20’:’NEW NAME’}, inplace = True)
+16:49:57	 From Samuel Noriega : from sklearn.preprocessing import OneHotEncoder
+16:50:18	 From Samuel Noriega : onehotencoder = OneHotEncoder(categorical_features = [0]) 
+data = onehotencoder.fit_transform(data).toarray()
+16:53:14	 From Samuel Noriega : encoding
+16:53:28	 From Samuel Noriega : https://www.geeksforgeeks.org/ml-one-hot-encoding-of-datasets-in-python/
+16:59:37	 From Samuel Noriega : data=pd.get_dummies(covid[“Contry/Region”])
+17:01:10	 From Samuel Noriega : https://medium.com/@contactsunny/label-encoder-vs-one-hot-encoder-in-machine-learning-3fc273365621
+17:06:01	 From Samuel Noriega : from sklearn.preprocessing import LabelEncoder
+labelencoder = LabelEncoder()
+x[:, 0] = labelencoder.fit_transform(x[:, 0])
+17:13:53	 From Samuel Noriega : covid[“Country/Region”] = pd.factorize(covid[“Country/Region”], sort=True)[0] + 1
