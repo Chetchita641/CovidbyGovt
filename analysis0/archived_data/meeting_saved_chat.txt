@@ -1,0 +1,17 @@
+16:51:39	 From Chris Macholtz : https://github.com/CSSEGISandData/COVID-19
+17:11:39	 From Chris Macholtz : https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd
+17:15:07	 From Chris Macholtz : https://www.worldometers.info/coronavirus/
+17:22:56	 From shim : https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov
+17:22:58	 From Luke : osulluke@gmail.com
+17:32:49	 From shim : https://www.worldometers.info/coronavirus/
+17:39:14	 From shim : Luke, I’m looking at the data models from Samuel.
+17:39:23	 From shim : Chris is aggregating the data
+17:39:38	 From Luke : Ok, sorry on the phone for a few.
+17:40:48	 From shim : We’re going to come onto the Aaron zoom at 7:30pm
+17:41:45	 From shim : Luke, can you look at any other cross-references that we might want?
+17:41:57	 From shim : Medical care?
+17:42:12	 From shim : Anything that you can think of…
+17:42:36	 From shim : Information flow?
+17:42:51	 From shim : Internet access across populations
+17:43:02	 From shim : Education levels?
+17:43:37	 From shim : Ok, I’m going off…is there anything that you need?
